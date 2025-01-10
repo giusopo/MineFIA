@@ -10,7 +10,7 @@
   - Costruire un banco da lavoro
 
 ## Installazione
-- **Crea un ambiente virtuale: Suggeriamo di utilizzare un ambiente virtuale per isolare le dipendenze del progetto:
+-**Crea un ambiente virtuale: Suggeriamo di utilizzare un ambiente virtuale per isolare le dipendenze del progetto:
   ```bash
     python3 -m venv myenv
     source myenv/bin/activate
